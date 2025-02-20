@@ -2,3 +2,4 @@ theme: minima
 title: Giigdo Test Blog
 author: A Mc
 description: a first try at blogging on GitHub
+remote_theme: just_the_docs/just_the_docs
